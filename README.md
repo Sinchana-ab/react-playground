@@ -40,6 +40,6 @@ Track progress and learn through doing
 ]
 🧑‍💻 Author
 
-Your Name
+Sinchana A B
 📫 [sinchuab22@gmail.com]
 🌐 [https://www.linkedin.com/in/sinchanaab/]
