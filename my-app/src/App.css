@@ -1,0 +1,38 @@
+.App {
+  min-height: 100vh;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFFBF7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #F8E8E8;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #E8A4B8;
+}
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Font Imports */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Apply Fonts */
+.font-playfair {
+  font-family: 'Playfair Display', serif;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
